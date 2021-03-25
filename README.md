@@ -1,0 +1,2 @@
+# solid
+Teoría principios SOLID
